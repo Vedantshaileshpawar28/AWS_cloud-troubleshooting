@@ -1,9 +1,8 @@
 
----
+
 
 ## **3️⃣ root-cause.md**
 
-```markdown
 # Root Cause
 
 A CPU-intensive process (stress test) was accidentally left running on the EC2 instance.  
